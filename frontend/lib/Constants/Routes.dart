@@ -1,0 +1,14 @@
+const String landingScreen = '/';
+const String signUp = '/signUp';
+const String signIn = '/signIn';
+const String myProfile = '/myProfile';
+const String admin = '/admin';
+const String adminAllUsers = '/allUsers';
+const String addMatch = '/addMatch';
+const String addStadium = '/addStadium';
+const String editMatch = '/editMatch';
+const String managerViewAllMatches = '/managerViewAllMatches';
+const String userViewAllMatches = '/userViewAllMatches';
+const String guestViewAllMatches = '/guestViewAllMatches';
+const String bookMatch = '/bookMatch';
+const String myReservations = '/myReservations';
